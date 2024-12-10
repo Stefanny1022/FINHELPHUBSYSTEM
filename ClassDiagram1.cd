@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Applicant">
+    <Position X="10" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAABAAAAAAAEAAAEQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeniorCitizen">
+    <Position X="6.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABABQAAAAAAAQAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="11" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAABABQAAAAAAIQAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FINHELPHUBSYSTEM">
+    <Position X="2.25" Y="1" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="FINHELPHUBSYSTEM.BarangayAnalytics">
+        <Compartments>
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="FINHELPHUBSYSTEM.BarangayAnalytics.BarangayAnalyticsData">
+            <TypeIdentifier>
+              <NewMemberFileName>Program.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>Program.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAIAAAABKBRAQQACEIRACEAAAgiAAAAAAQAAiAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Program">
+    <Position X="15" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACAAAAABAAAAAEAAQAAAAAAAAAAAAAAACBAAAABI=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IFileHandler">
+    <Position X="15.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
